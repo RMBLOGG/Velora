@@ -1,0 +1,6 @@
+{
+  "name": "Velora",
+  "description": "Velora is a native Android anime streaming application featuring trending carousels, schedule grids, rich details, watchlist, and continuous watch persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
